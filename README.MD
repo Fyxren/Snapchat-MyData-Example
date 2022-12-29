@@ -1,4 +1,4 @@
-<h1 align="center">📂 Snapchat MyData Example</h1> 
+<h1 align="center">👻 Snapchat MyData Example</h1> 
 <p align="center">An example of the json files you will receive when you request your data from <a href="https://accounts.snapchat.com/accounts/downloadmydata">Snapchat</a>.</p>
 
 <br/>
