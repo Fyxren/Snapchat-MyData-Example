@@ -9,7 +9,7 @@ I couldn't really find anything which documented the files Snapchat gives, so I 
 All the files are in `/data` and are `.md` files. These are structured as followed:
 ### Info
 **Description:** A short description of what the file contains\
-**Status:** The status of the example (_self-explanatory, but see [`#Status Legend`](https://github.com/Fyxren/Snapchat-MyData-Example#status-legend) for more info_)\
+**Status:** The status of the example (_self-explanatory, but see [`#Status Legend`](https://github.com/Fyxren/Snapchat-MyData-Example#-status-legend) for more info_)\
 **Last Updated:** The date when the file was last updated, to know how up-to-date (_or outdated_) the example is.
 
 ### Data
@@ -24,7 +24,7 @@ If you want to contribute, thank you! There is still quite a bit of data missing
 
 Please keep these in mind:
 - **Description:** Check if the description is still applicable, please update it when needed.
-- **Status:** When needed, update the status (_see [#Status Legend](https://github.com/Fyxren/Snapchat-MyData-Example#status-legend)_).
+- **Status:** When needed, update the status (_see [#Status Legend](https://github.com/Fyxren/Snapchat-MyData-Example#-status-legend)_).
 - **Last Updated:** Update the date to the date of the commit in this format: `January 1st, 2022`.
 
 ## 📞 Contact
