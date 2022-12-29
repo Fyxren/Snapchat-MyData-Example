@@ -20,7 +20,7 @@ All the files are in `/data` and are `.md` files. These are structured as follow
 ```
 
 ## ❤️ Contributing
-If you want to contribute, thank you! There is still quite a bit of data missing. If you've requested your data from snapchat ([link ↗](https://accounts.snapchat.com/accounts/downloadmydata)) and noticed that you have something in your file which isn't in this repo, or has changed, feel free to add/update it.
+If you want to contribute, thank you! There is still quite a bit of data missing. If you've requested your data from Snapchat ([link ↗](https://accounts.snapchat.com/accounts/downloadmydata)) and noticed that you have something in your file which isn't in this repo, or has changed, feel free to add/update it.
 
 Please keep these in mind:
 - **Description:** Check if the description is still applicable, please update it when needed.
