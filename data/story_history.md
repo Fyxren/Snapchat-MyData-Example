@@ -1,5 +1,5 @@
 ## Info
-**Description:** Your story history.\
+**Description:** Your story history (?) & the stories you've seen\
 **Status:** Complete\
 **Last Updated:** December 29th, 2022
 
