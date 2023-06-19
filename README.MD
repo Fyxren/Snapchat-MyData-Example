@@ -28,7 +28,7 @@ Please keep these in mind:
 - **Last Updated:** Update the date to the date of the commit in this format: `January 1st, 2022`.
 
 ## 📞 Contact
-If you need to contact me, just shoot me a message on Discord: [Fyxren#0001](https://discord.com/users/462914535351779328).\
+If you need to contact me, just shoot me a message on Discord: [fyxren](https://discord.com/users/462914535351779328).\
 Feel free to star the repo if you like it ⭐
 
 <a href="https://discord.com/users/462914535351779328">
